@@ -1,6 +1,6 @@
 ### Hello World! 👋🏽
 
-- 🔭 I’m currently working on ... building UI & API frameworks
-- 💡 I'm interested in ... REST API testing with JMeter
-- 💡 I'm also interested in ... building BDD style frameworks
+- 🔭 I’m currently working on ... building UI & Rest API frameworks
+- 💡 I'm interested in ... building BDD style frameworks
+- 💡 I'm also interested in ... performance and load testing Rest API's
 - ⚡ Fun fact: ... I love to DJ in my spare time 🎶
